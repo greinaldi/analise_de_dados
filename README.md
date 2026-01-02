@@ -1,6 +1,6 @@
 # 📊🐍 Análise de Dados com Python e SQL
 
-Repositório dedicado a projetos de **análise de dados**, utilizando **Python** e suas principais bibliotecas para manipulação, análise e visualização de dados, além de **SQL integrado ao Python**.
+Repositório dedicado a projetos de análise de dados, utilizando Python e suas principais bibliotecas para manipulação, análise e visualização de dados como Pandas, NumPy, Matplotlib e Seaborn, além de consultas SQL e SQL integrado ao Python.
 
 ---
 
